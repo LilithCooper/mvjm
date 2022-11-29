@@ -1,0 +1,44 @@
+body {
+    background-color:blanchedalmond;
+}
+h2 {
+font-size: 40px;
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-style: italic;
+}
+.left {
+width:200px;
+height:200px;
+}
+.right {
+width:45%;
+height:45%;
+}
+.taska {
+    width:45%;
+    height:45%;
+}
+.kituzo {
+    width:45%;
+    height:45%;
+}
+.noipolo {
+    width:45%;
+    height:45%;
+}
+.ferfipolo {
+    width:45%;
+    height:45%;
+}
+.noipulcsi {
+    width:45%;
+    height:45%;
+}
+.ferfipulcsi {
+    width:45%;
+    height:45%;
+}
+.button {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
